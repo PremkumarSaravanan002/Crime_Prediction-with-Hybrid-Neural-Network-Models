@@ -29,7 +29,7 @@ We used Python and the TensorFlow library to implement and train these models on
 
 **Results:**
 
-We evaluated the performance of our models using several metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared Score. Our experiments showed that the Artificial Neural Networks (ANN) model achieved the highest accuracy, with an accuracy of *83%*.
+We evaluated the performance of our models using several metrics, including Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared Score. Our experiments showed that the Hybrid model achieved the highest performance, with an R-squared score of *0.71*.
 
 **Usage:**
 
